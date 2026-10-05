@@ -21,7 +21,7 @@
 **1️⃣ Clone the project**
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/Pandatech499163/eth-liquidity-scanner
 cd <your-repo>
 ```
 
